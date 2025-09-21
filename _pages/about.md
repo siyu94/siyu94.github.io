@@ -26,7 +26,7 @@ Recent Presentations
 
 [German Development Economics Conference](https://events.gwdg.de/event/970/), June 2025, Frankfurt
 
-[30th Annual ENTER Jamboree](https://www.enter-network.org/activities/), June 2025, Sweden
+[30th Annual ENTER Jamboree](https://www.enter-network.org/activities/), June 2025, Stockholm
 
 [13th Mannheim Conference on Energy and the Environment](https://www.zew.de/en/events-and-professional-training/detail/13th-mannheim-conference-on-energy-and-the-environment/4481?cHash=ceed3ffce1cd51d815c741c30cb78cc5), May 2025, Mannheim 
 
@@ -50,7 +50,7 @@ Mathematical Economics (TA, Bachelor, Xiamen University), Spring 2019
 
 Refereeing
 ======
-Journal of the Association of Environmental and Resource Economists
+Journal of the Association of Environmental and Resource Economists (JAERE)
 
 
 
