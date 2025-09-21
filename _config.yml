@@ -26,8 +26,9 @@ author:
   name             : " "
   pronouns         :   
   bio              : 
-  location         : "L7, 3-5, Room 210 <br> 68161 Mannheim"
-  employer         : "Department of Economic <br> University of Mannheim"
+  #location         : "L7, 3-5, Room 210 <br> 68161 Mannheim"
+  location : <span style="padding-left:5em;">L7, 3-5, Room 210<br>68161 Mannheim</span>
+  employer         : "University of Mannheim"
   uri              : 
   email            : "siyzhang@mail.uni-mannheim.de" 
 
