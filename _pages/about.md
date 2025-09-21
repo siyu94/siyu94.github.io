@@ -42,7 +42,9 @@ Public Health Co-benefits of EU CBAM (joint with [Sabine Stillger](https://sites
 Teaching
 ======
 Microeconomics B (TA, Bachelor, University of Mannheim), Fall 2023, 2024, 2025
+
 Advanced Microeconomics (TA, Master, University of Mannheim), Fall 2022
+
 Mathematical Economics (TA, Bachelor, Xiamen University), Spring 2019
 
 
