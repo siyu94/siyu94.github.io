@@ -26,8 +26,12 @@ author:
   name             : ""
   pronouns         :   
   bio              : 
-  location         : L7, 3-5, Room 210
-                     68161 Mannheim
+  
+  <p style="white-space: pre;">
+location : L7, 3-5, Room 210
+           68161 Mannheim
+</p>
+
   employer         : "University of Mannheim"
   uri              : 
   email            : "siyzhang@mail.uni-mannheim.de" 
