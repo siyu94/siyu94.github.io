@@ -11,9 +11,10 @@ I am a Ph.D. student in Economics at the University of Mannheim.
 
 My main research interests are in environmental economics, development economics and international trade.
 
-My supervisors are Ulrich Wagner, Mateus Souza and Kathrine von Graevenitz.
+My supervisors are [Ulrich Wagner](https://ulrichwagner.eu/), [Kathrine von Graevenitz](https://sites.google.com/view/kathrinevongraevenitz/home) and [Mateus Souza](https://sites.google.com/view/mateussouza/home).
 
 I will be on the 2025-26 job market.
+
 
 
 Recent Presentations
