@@ -23,11 +23,11 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Siyu Zhang"
+  name             : " "
   pronouns         :   
   bio              : 
-  location         : "L7, 3-5, Room 210 // 68161 Mannheim"
-  employer         : "Department of Economic // University of Mannheim"
+  location         : "L7, 3-5, Room 210 <br> 68161 Mannheim"
+  employer         : "Department of Economic <br> University of Mannheim"
   uri              : 
   email            : "siyzhang@mail.uni-mannheim.de" 
 
