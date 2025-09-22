@@ -11,8 +11,6 @@ I am a Ph.D. student in Economics at the [University of Mannheim](https://www.un
 
 <p><strong>I will be on the 2025–26 job market.</strong></p>
 
-I will be on the 2025-26 job market.
-
 Current Research
 ======
 Road to Green? The Effect of Highway Expansion on Industrial Emissions Intensity (Job Market Paper)
