@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Siyu Zhang"
+title                    : "Siyu Zhang / Side title"
 title_separator          : "-"
 name                     : &name "Siyu Zhang"
 description              : &description "personal description"
