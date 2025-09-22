@@ -24,10 +24,10 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : #"Your Sidebar Name"
   pronouns         : # example: "she/her"  
   bio              : #"Short biography for the left-hand sidebar"
-  location         : L7, 3-5, 68161 Mannheim
+  location         : Mannheim, Germany
   employer         : "University of Mannheim"
   uri              : # URL
   email            : "siyzhang@mail.uni-mannheim.de" 
