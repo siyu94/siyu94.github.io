@@ -9,6 +9,8 @@ redirect_from:
 
 I am a Ph.D. student in Economics at the [University of Mannheim](https://www.uni-mannheim.de/gess/). Additionally, I am a member of Project B07 in the [Collaborative Research Center Transregio 224](https://www.crctr224.de/) (Bonn/Mannheim). My supervisors are [Ulrich Wagner](https://ulrichwagner.eu/), [Kathrine von Graevenitz](https://sites.google.com/view/kathrinevongraevenitz/home) and [Mateus Souza](https://sites.google.com/view/mateussouza/home). My main research interests are in environmental economics, development economics and international trade. Please find my CV [here]().
 
+<p><strong>I will be on the 2025–26 job market.</strong></p>
+
 I will be on the 2025-26 job market.
 
 Current Research
