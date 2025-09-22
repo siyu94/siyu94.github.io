@@ -23,11 +23,11 @@ repository               : "siyu94/siyu94.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "SiyuZhang.webp"
   name             : "Siyu Zhang"
   pronouns         : # example: "she/her"  
   bio              : #"Short biography for the left-hand sidebar"
-  location         : Mannheim, Germany
+  location         : "Mannheim, Germany"
   employer         : "University of Mannheim"
   uri              : # URL
   email            : "siyzhang@mail.uni-mannheim.de" 
