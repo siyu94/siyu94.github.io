@@ -27,8 +27,7 @@ author:
   name             : "Your Sidebar Name"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : L7, 3-5, Room 210<br>
-                     68161 Mannheim
+  location         : "L7, 3-5, Room 210<br>68161 Mannheim"
   employer         : "University of Mannheim"
   uri              : # URL
   email            : "siyzhang@mail.uni-mannheim.de" 
