@@ -27,7 +27,7 @@ author:
   name             : "Your Sidebar Name"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "L7, 3-5, Room 210"
+  location         : <span style="padding-left:5em;">L7, 3-5, Room 210<br>68161 Mannheim</span>
   employer         : "University of Mannheim"
   uri              : # URL
   email            : "siyzhang@mail.uni-mannheim.de" 
@@ -54,7 +54,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
