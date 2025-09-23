@@ -13,7 +13,10 @@ I am a Ph.D. student in Economics at the [University of Mannheim](https://www.un
 
 Current Research
 ======
-Road to Green? The Effect of Highway Expansion on Industrial Emissions Intensity (Job Market Paper)
+<p><strong>Road to Green? The Effect of Highway Expansion on Industrial Emissions Intensity (Job Market Paper)</strong></p>
+
+This paper examines whether highway expansion, beyond improving connectivity and lowering trade costs, can also reduce the emissions intensity of industrial production. I develop a general equilibrium model in which emissions are an endogenous by-product of firms’ output, and show that highways can lower aggregate emissions intensity by fostering tougher competition and improving resource allocation, especially where trade costs were initially high. Empirically, I use detailed firm-level data from China and a network-based instrument to show that highway expansion reduces markup dispersion and lowers SO₂ and COD emissions intensity at the province level, consistent with improved resource allocation. Using geospatial highway data and a complementary instrumental variable strategy, I further document reductions in emissions intensity at the county level. These results reveal an overlooked environmental co-benefit of transport infrastructure, highlighting its potential to jointly enhance economic efficiency and environmental sustainability.
+
 
 Public Health Co-benefits of EU CBAM (joint with [Sabine Stillger](https://sites.google.com/view/sabinestillger/home) and [Yixuan Gu](https://sites.google.com/view/yixuangu))
 
@@ -41,14 +44,5 @@ Microeconomics B (TA, Bachelor, University of Mannheim), Fall 2023, 2024, 2025
 Advanced Microeconomics (TA, Master, University of Mannheim), Fall 2022
 
 Mathematical Economics (TA, Bachelor, Xiamen University), Spring 2019
-
-Relevant Professional Experience
-======
-World Bank (Short-Term Consultant), Spring 2022
-
-Refereeing
-======
-Journal of the Association of Environmental and Resource Economists (JAERE)
-
 
 
