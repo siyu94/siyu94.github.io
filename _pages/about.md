@@ -9,7 +9,7 @@ redirect_from:
 
 I am a PhD candidate in Economics at the [University of Mannheim](https://www.uni-mannheim.de/gess/) and a member of Project B07 within the [Collaborative Research Center Transregio 224](https://www.crctr224.de/) (Bonn/Mannheim). My advisors are [Ulrich Wagner](https://ulrichwagner.eu/), [Kathrine von Graevenitz](https://sites.google.com/view/kathrinevongraevenitz/home) and [Mateus Souza](https://sites.google.com/view/mateussouza/home). My main research interests are in environmental economics, development economics and international trade. 
 
-You can find my CV [here](https://unimannheimde-my.sharepoint.com/:b:/g/personal/siyzhang_ad_uni-mannheim_de/EXvM3C_WK5JOr8LY37HBHhoBxg-0ntgztOGClnJ5L40vlg?e=EASvs6).
+You can find my CV [here](https://unimannheimde-my.sharepoint.com/:b:/g/personal/siyzhang_ad_uni-mannheim_de/Edep73zNjUVCrYYTpBAfhYoB4hJwpia-_CjI48hSB_T8Hg?e=KYNFOV).
 
 <p><strong>I will be on the 2025–26 job market.</strong></p>
 
