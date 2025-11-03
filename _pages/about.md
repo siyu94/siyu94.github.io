@@ -11,7 +11,7 @@ I am a PhD candidate in Economics at the [University of Mannheim](https://www.un
 
 You can find my CV [here](https://unimannheimde-my.sharepoint.com/:b:/g/personal/siyzhang_ad_uni-mannheim_de/Edep73zNjUVCrYYTpBAfhYoB4hJwpia-_CjI48hSB_T8Hg?e=KYNFOV).
 
-<p><strong>I will be on the 2025–26 job market.</strong></p>
+<p><strong>I am on the 2025–26 job market.</strong></p>
 
 Current Research
 ======
