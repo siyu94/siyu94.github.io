@@ -17,6 +17,8 @@ Current Research
 ======
 **Road to Green? The Effect of Highway Expansion on Industrial Emissions Intensity** *([**Job Market Paper**](https://unimannheimde-my.sharepoint.com/:b:/g/personal/siyzhang_ad_uni-mannheim_de/IQBuywvvVVRtSp6HLXGqOJLvAbUm4YXXLVVXtxMPStz07PI?e=PbgK8F)
 )*
+
+
 This paper examines whether highway expansion, beyond improving connectivity and lowering trade costs, can also reduce the emissions intensity of industrial production. I develop a general equilibrium model in which emissions are an endogenous by-product of firms’ output, and show that highways can lower aggregate emissions intensity by fostering tougher competition and improving resource allocation, especially where trade costs were initially high. The sign of the effect depends on the relative elasticities of wages and productivity with respect to trade costs. Empirically, I use detailed firm-level data from China and a network-based instrument variable to show that highway expansion reduces markup dispersion and lowers sulfur dioxide (SO<sub>2</sub>) emissions and chemical oxygen demand (COD) per unit of output at the province level, consistent with improved resource allocation. Using geospatial highway data, I further document reductions in emissions intensity at the county level. These results highlight the potential for transportation infrastructure to jointly enhance economic efficiency and environmental sustainability, a co-benefit thus far overlooked.
 
 
